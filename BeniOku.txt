@@ -1,2 +1,5 @@
 kullanim sekli
 http://prntscr.com/ilr6x3
+
+ekle'in degeri bunun gibi olmali
+{"ismi":"erkan","soyismi":"ucar","mail":"erkanucar@mail.com","telefon":"05341234567"}
